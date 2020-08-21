@@ -22,5 +22,20 @@ Data:
 Dictionary:
   key1: value1
   key2: value2
-  ...
+...
 ```
+
+#### Dictionary/Map inside a List
+```bash
+List:
+- Dictionary1:
+    key1: value1
+    key2: value2
+    
+- Dictionary1:
+    key1: value1
+    key2: value2
+...
+```
+
+
