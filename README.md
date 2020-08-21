@@ -15,7 +15,7 @@ Key2: Value2
 ```
 
 #### Creating a Array/List
-..* Ordered Collection of Data
+* Ordered Collection of Data
 ```bash
 Data:
 - value1
@@ -24,8 +24,8 @@ Data:
 ```
 
 #### Creating a Dictionary/Map
-..* Unordered Collection of Data
-..* To store the properties of an item in a key-value pair.
+* Unordered Collection of Data
+* To store the properties of an item in a key-value pair.
 ```bash
 Dictionary:
   key1: value1
