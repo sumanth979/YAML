@@ -1,0 +1,17 @@
+Employee:
+  Name: Sumanth
+  Sex: Male
+  Age: 24
+  Title: Software Engineer
+  Company: Genesys
+  Projects:
+    - Devops
+    - Developer
+    - Automation
+  Payslips:
+    - Month: June
+      Wage: 50000
+    - Month: July
+      Wage: 55000
+    - Month: August
+      Wage: 60000
